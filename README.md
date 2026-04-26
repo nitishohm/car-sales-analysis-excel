@@ -18,8 +18,16 @@ Analyze car sales and profit data to generate insights for dealership performanc
 - Observed profit trends across different car models
 - Highlighted yearly performance variations
 
-## 📷 Dashboard Preview
-(Add screenshots here)
+## 📊 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard](screenshots/dashboard-overview.png)
+
+### Quantity Sold by Dealer
+![Bar Chart](screenshots/quantity-sold-dealer.png)
+
+### Profit Trends
+![Line Chart](screenshots/profit-trend-model.png)
 
 ## 📁 Dataset
 Dataset sourced from IBM Accelerator Catalog (modified for learning purposes)
